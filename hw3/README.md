@@ -8,5 +8,8 @@ Design a Local Median Filter Engine (LMFE):
 1. Local Median Filter Engine:
 <img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/hw3_1.png alt="LMFE" width=500 height=185>  
 2. Signals between Host and LMFE:
-<img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/hww3_2.png alt="hw3_2" width=500 height=280>
+<img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/hww3_2.png alt="hw3_2" width=500 height=280>  
+3. Example of input image:  
+<img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/hww3_3.png alt="hw3_3" width=500 height=350>  
+
 
