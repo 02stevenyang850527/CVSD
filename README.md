@@ -1,7 +1,8 @@
 ## Computer-aided VLSI System design (CVSD) 
 EEE 5022, National Taiwan University, 2018 Spring  
-[Note]:  
-1. This course provide training about the flow of digital IC design, including but not limted to RTL coding (Verilog), Synthesis, DFT/ATPG, Static Timing Analysis, Placement and Routing, DRC/LVS, Verification.  
+
+[Note]:
+1. This course provides training about the flow of digital IC design, including but not limted to RTL coding (Verilog), Synthesis, DFT/ATPG, Static Timing Analysis, Placement and Routing, DRC/LVS, Verification.  
 2. Homework Assignments related to Verilog implementation are available on this repo.
 
 ### Homework related to Verilog implementation:  
