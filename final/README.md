@@ -9,10 +9,18 @@ Design a digital photo album which supports the following features:
 ### Block Diagram:  
 1. System block diagram:
 <img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_2.png alt="block" width=500 height=300>  
-2. Display photo and time in digital photo album:  
-<img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_1.png alt="p1" width=256 height=256><img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_3.png alt="p2" width=256 height=256>  
-
-<img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_5.png alt="p3" width=256 height=256><img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_6.png alt="p4" width=256 height=256>  
-
-3. Transition Effect:  
+ 
+2. Transition Effect:  
 <img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_4.png alt="tran" width=256 height=256>  
+
+3. Display photo and time in digital photo album:  
+<figure class="half">
+<img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_1.png alt="p1" width=256 height=256>
+<img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_3.png alt="p2" width=256 height=256>
+</figure>
+
+<figure class="half">
+<img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_5.png alt="p3" width=256 height=256>
+<img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_6.png alt="p4" width=256 height=256>  
+</figure>
+
