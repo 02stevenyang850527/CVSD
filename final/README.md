@@ -16,11 +16,14 @@ Design a digital photo album which supports the following features:
 3. Display photo and time in digital photo album:  
 <p align="center">
 <img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_1.png alt="p1" width=256 height=256>
+<pre>
+     
+</pre>
 <img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_3.png alt="p2" width=256 height=256>
 </p>
 
-<figure class="center">
+<p class="center">
 <img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_5.png alt="p3" width=256 height=256>
 <img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_6.png alt="p4" width=256 height=256>  
-</figure>
+</p>
 
