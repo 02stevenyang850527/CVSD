@@ -6,7 +6,7 @@ EEE 5022, National Taiwan University, 2018 Spring
 2. Homework Assignments related to RTL coding (Verilog) are available on this repo.
 
 ### Homework related to RTL coding:  
-1. ALU (HW1): https://github.com/02stevenyang850527/CVSD/tree/master/hw1
+1. ALU: https://github.com/02stevenyang850527/CVSD/tree/master/hw1
 2. Frequency Analysis System: https://github.com/02stevenyang850527/CVSD/tree/master/hw2
 3. Local Median Filter Engine: https://github.com/02stevenyang850527/CVSD/tree/master/hw3
 
