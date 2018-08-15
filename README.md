@@ -1,5 +1,5 @@
 ## Computer-aided VLSI System design (CVSD) 
-EEE 5022, National Taiwan University, 2018 Spring  
+EEE 5022, 2018 Spring, National Taiwan University (NTU)
 
 [Note]:
 1. This course provides training about the flow of digital IC design, including but not limted to RTL coding (Verilog), Synthesis, DFT/ATPG, Static Timing Analysis, Placement and Routing, DRC/LVS, Verification.  
