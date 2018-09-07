@@ -24,3 +24,5 @@ Design a digital photo album which supports the following features:
 <img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_6.png alt="p4" width=256 height=256>  
 </p>
 
+### Layout:  
+<img src=https://github.com/02stevenyang850527/CVSD/blob/master/pics/final_layout.png alt="block" width=500 height=500>  
